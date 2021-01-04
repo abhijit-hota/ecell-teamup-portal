@@ -17,6 +17,8 @@ Main operations of the Student dashboard include:
 
 ### Tech
 
+![Total Website Map for TeamUp. This monorepo consists only the **Student Dashboard**, **Login** and **Register** sections.](https://kretaceous-bucket.s3.ap-south-1.amazonaws.com/team-up-map.png)
+
 **Frontend (React)**:
 - Ant Design component library
 - Redux and React Redux

@@ -1,10 +1,9 @@
-# TeamUp
-## E-Cell, IITM
+# TeamUp, E-Cell, IITM
 
 ### About
-[TeamUp](https://ecell.iitm.ac.in/event/team-up) is an event conducted by [Entrepreneurship Cell, IIT Madras](https://ecell.iitm.ac.in). The purpose of the event is to connect students with p=budding startups and collaborative projects.
+[TeamUp](https://ecell.iitm.ac.in/event/team-up) is an event conducted by [Entrepreneurship Cell, IIT Madras](https://ecell.iitm.ac.in). The purpose of the event is to connect students with budding startups and collaborative projects. This portal was made to accompany the event. There were around ***433*** registrations through this portal.
 
-### Functionality
+### Portal Functionality
 Students can use the portal **Student Dashboard** and get notified about selections. Mentors (which are preloaded in the database) can login and see who all have applied for their projects (which are also hardcoded in the database), shortlist and select them.
 
 This repo is part of bigger repo that can't be made public. This monorepo only consists of the Students' part (called the **Student Dashboard** and acccompanying login and register functionalities) which was coded by me. The total project was made by me and a [colleague](https://github.com/ashishshroti14).

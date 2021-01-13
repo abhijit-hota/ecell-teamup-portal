@@ -31,3 +31,7 @@ Main operations of the Student dashboard include:
 
 **Misc**
 - AWS S3 for file storage. Files uploaded directly to S3 bucket from the client side via POST requests.
+
+---- 
+
+P.S. The [ResponseUtils.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/ResponseUtils.js), [DBUtils.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/DBUtils.js) and [ErrorCodes.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/ErrorCodes.js) are part of the bigger repository I talked about earlier and **are not coded by me**.

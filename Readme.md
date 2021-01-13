@@ -32,6 +32,15 @@ Main operations of the Student dashboard include:
 **Misc**
 - AWS S3 for file storage. Files uploaded directly to S3 bucket from the client side via POST requests.
 
+### Local Development
+- In the `backend` folder:
+  - Fill up the [template.env](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/template.env) file and rename it to `.env`. 
+  - Install everything with `npm install`
+  - Start the server with `nodemon` (if you have it installed globally) or `node index.js`
+- In the `frontend` folder:
+  - Install everything with `yarn`
+  - Start the React dev server with `yarn start`
+
 ---- 
 
 P.S. The [ResponseUtils.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/ResponseUtils.js), [DBUtils.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/DBUtils.js) and [ErrorCodes.js](https://github.com/abhijit-hota/ecell-teamup-portal/blob/main/backend/utils/ErrorCodes.js) are part of the bigger repository I talked about earlier and **are not coded by me**.
